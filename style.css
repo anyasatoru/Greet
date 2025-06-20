@@ -1,0 +1,25 @@
+body {
+  background: linear-gradient(to right, #ffecd2, #fcb69f);
+  font-family: 'Comic Sans MS', cursive;
+  text-align: center;
+  padding: 50px;
+}
+
+.card {
+  background-color: white;
+  padding: 30px;
+  border-radius: 20px;
+  box-shadow: 0 10px 25px rgba(0,0,0,0.2);
+  display: inline-block;
+}
+
+h1 {
+  color: #ff4081;
+  font-size: 2.5em;
+}
+
+p {
+  color: #444;
+  font-size: 1.2em;
+  margin: 20px 0;
+}
